@@ -7,3 +7,7 @@ GET {{url}}
 ### GET jobs route
 GET {{url}}/jobs
 
+
+### GET skills route
+GET {{url}}/skills
+
