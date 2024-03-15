@@ -1,0 +1,9 @@
+@url=http://localhost:3668
+
+### GET base route
+GET {{url}}
+
+
+### GET jobs route
+GET {{url}}/jobs
+
